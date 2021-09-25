@@ -1,0 +1,5 @@
+a) Θ(n^(log3[base 2]))
+b) Θ({n^(log3[base 2])}{logn}^2)
+c) Θ(n^n)
+d) Θ(n^(log3[base 2])}{logn})
+e) Θ(n^2)
